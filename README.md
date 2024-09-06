@@ -97,3 +97,17 @@ describe('Teste de Acessibilidade com Cypress e Axe', () => {
 - [Documentação do Cypress](https://docs.cypress.io/)
 - [axe-core](https://github.com/dequelabs/axe-core)
 - [LambdaTest](https://www.lambdatest.com/)
+
+### Licença
+
+<a href="https://github.com/DoglasBSB/RobotProjectFD/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/DoglasBSB/RobotProjectFD"></a>
+
+### Autor 
+
+---
+<img style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/26123869?v=4" width="100px;" alt=""/>
+
+- 👋 Olá, sou Francisco Dôglas
+- 📚 Estou aprendendo e atualizando conhecimentos em automação de teste.
+- 👉 Procuro projetos onde possa colaborar utilizando Robot Framework, Cypress, Selenium e Python.
+- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/franciscodôglas/
