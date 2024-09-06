@@ -1,9 +1,14 @@
-const { defineConfig } = require("cypress");
+const { defineConfig } = require('cypress');
 
 module.exports = defineConfig({
   e2e: {
     setupNodeEvents(on, config) {
-      // implement node event listeners here
+      // Eventos Cypress (se necessário)
     },
+    baseUrl: 'https://ecommerce-playground.lambdatest.io/',
+    video: true,
+    screenshotsFolder: 'cypress/screenshots',
+    videosFolder: 'cypress/videos',
   },
 });
+
