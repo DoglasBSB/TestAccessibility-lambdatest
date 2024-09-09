@@ -1,4 +1,4 @@
-# Cypress Acessibilidade com Axe e LambdaTest
+# Teste de Acessibilidade utilizando Cypress
 
 Este projeto integra **Cypress** com a biblioteca de testes de acessibilidade **Axe-core** para realizar verificações automatizadas de acessibilidade em páginas web. A execução dos testes é feita na plataforma de nuvem **LambdaTest**, permitindo testes em diversos navegadores e sistemas operacionais.
 
