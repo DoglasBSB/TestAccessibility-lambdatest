@@ -15,8 +15,8 @@ Certifique-se de ter os seguintes requisitos instalados antes de configurar o pr
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/cypress-acessibilidade.git
-   cd cypress-acessibilidade
+   git clone https://github.com/DoglasBSB/TestAccessibility-lambdatest.git
+   cd TestAccessibility-lambdatest
    ```
 
 2. **Instale as dependências:**
