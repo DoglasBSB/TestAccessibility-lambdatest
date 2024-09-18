@@ -109,5 +109,5 @@ describe('Teste de Acessibilidade com Cypress e Axe', () => {
 
 - 👋 Olá, sou Francisco Dôglas
 - 📚 Estou aprendendo e atualizando conhecimentos em automação de teste.
-- 👉 Procuro projetos onde possa colaborar utilizando Robot Framework, Cypress, Selenium e Python.
+- 👉 Procuro projetos onde possa colaborar utilizando Cypress, Robot Framework e Selenium.
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/franciscodôglas/
